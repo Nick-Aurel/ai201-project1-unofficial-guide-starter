@@ -1,0 +1,44 @@
+[
+  {
+    "type": "eval",
+    "eval_id": 1,
+    "question": "How many undergraduates are declared in Cornell's Information Science major, and what enrollment problem do students describe?",
+    "answer": "There are over 700 undergraduates declared in the Information Science major. Students describe the enrollment problem as it being \"near impossible to enroll in the classes\" due to limited course offerings and large class sizes, causing stress.",
+    "sources": [
+      "05_daily_sun_enrollment_struggles.txt",
+      "04_daily_sun_info_growing_pains.txt"
+    ]
+  },
+  {
+    "type": "eval",
+    "eval_id": 2,
+    "question": "What GPA and course requirements must Cornell students meet to affiliate with the Information Science major?",
+    "answer": "To affiliate with the Information Science major, Cornell students must meet the following requirements: \n1. A grade point average of 2.50 or higher in the required courses, \n2. No single course grade below a \"C\" (\"C-\" does not count), and \n3. Completion of Introductory Programming: CS 1110 or CS 1112 (or AP Computer Science A score of 5, or IB Computer Science).",
+    "sources": [
+      "06_bowers_info_affiliation.txt"
+    ]
+  },
+  {
+    "type": "eval",
+    "eval_id": 3,
+    "question": "What technology and workload do students report for INFO 3300 (Visual Data Analytics for the Web)?",
+    "answer": "According to the excerpts, students report using the D3 Javascript library for INFO 3300, and the course covers technologies for representing, modeling, and displaying data, as well as Javascript programming and web scalable vector graphics (SVG). An application is required for enrollment.",
+    "sources": [
+      "10_coursicle_info_3300.txt",
+      "11_cswiki_info_3300.txt",
+      "03_reddit_cs3780_vs_info2950.txt",
+      "04_daily_sun_info_growing_pains.txt",
+      "05_daily_sun_enrollment_struggles.txt"
+    ]
+  },
+  {
+    "type": "out_of_scope",
+    "question": "What is the best dining hall at Cornell?",
+    "answer": "I don't have enough information on that.",
+    "sources": [
+      "02_reddit_class_tier_list.txt",
+      "01_college_confidential_info_three_colleges.txt"
+    ],
+    "refusal_detected": true
+  }
+]

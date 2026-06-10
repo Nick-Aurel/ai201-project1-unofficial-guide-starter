@@ -1,0 +1,224 @@
+[
+  {
+    "id": 1,
+    "question": "How many undergraduates are declared in Cornell's Information Science major, and what enrollment problem do students describe?",
+    "expected_answer": "Over 700 undergraduates. Students report difficulty enrolling in core INFO classes during add/drop, overcrowded office hours, and limited spring-semester availability for core requirements (most core courses offered in fall).",
+    "system_answer": "There are over 700 undergraduates declared in the Information Science major. Students describe the enrollment problem as it being \"near impossible to enroll in the classes and to be in the major\" due to limited course offerings and large class sizes.",
+    "sources": [
+      "05_daily_sun_enrollment_struggles.txt",
+      "04_daily_sun_info_growing_pains.txt"
+    ],
+    "retrieval": [
+      {
+        "distance": 0.23214662075042725,
+        "source_filename": "05_daily_sun_enrollment_struggles.txt",
+        "chunk_index": 6,
+        "text_preview": "SOURCE: Cornell Daily Sun — enrollment struggles\nURL: https://www.cornellsun.com/article/2023/01/computer-and-information-science-students-struggle-with-course-enrollment-adding-stress-instead-of-classes\nTYPE: student_newspaper\n\nIn fall 2022, Information Science 2040: Networks had 552 enrolled stude"
+      },
+      {
+        "distance": 0.23970389366149902,
+        "source_filename": "04_daily_sun_info_growing_pains.txt",
+        "chunk_index": 12,
+        "text_preview": "SOURCE: Cornell Daily Sun — INFO growing pains\nURL: https://cornellsun.com/2024/03/06/with-over-700-undergraduates-information-science-department-experiences-growing-pains-plans-to-streamline-major/\nTYPE: student_newspaper\n\nIn addition to limited course offerings, large class sizes and overflowing o"
+      },
+      {
+        "distance": 0.2689230442047119,
+        "source_filename": "05_daily_sun_enrollment_struggles.txt",
+        "chunk_index": 7,
+        "text_preview": "SOURCE: Cornell Daily Sun — enrollment struggles\nURL: https://www.cornellsun.com/article/2023/01/computer-and-information-science-students-struggle-with-course-enrollment-adding-stress-instead-of-classes\nTYPE: student_newspaper\n\n“In general, information science is a really attractive major and opens"
+      },
+      {
+        "distance": 0.2725716829299927,
+        "source_filename": "04_daily_sun_info_growing_pains.txt",
+        "chunk_index": 1,
+        "text_preview": "SOURCE: Cornell Daily Sun — INFO growing pains\nURL: https://cornellsun.com/2024/03/06/with-over-700-undergraduates-information-science-department-experiences-growing-pains-plans-to-streamline-major/\nTYPE: student_newspaper\n\nWith over 700 undergraduates declared in the major, information science is o"
+      },
+      {
+        "distance": 0.2835831642150879,
+        "source_filename": "05_daily_sun_enrollment_struggles.txt",
+        "chunk_index": 12,
+        "text_preview": "SOURCE: Cornell Daily Sun — enrollment struggles\nURL: https://www.cornellsun.com/article/2023/01/computer-and-information-science-students-struggle-with-course-enrollment-adding-stress-instead-of-classes\nTYPE: student_newspaper\n\nLast fall, five out of the six information science core classes were of"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What GPA and course requirements must Cornell students meet to affiliate with the Information Science major?",
+    "expected_answer": "Minimum GPA of 2.50 in required courses with no grade below C; introductory programming (CS 1110 or CS 1112); calculus or statistics prerequisite; and completion of any 2 of the 5 INFO core courses before affiliating.",
+    "system_answer": "To affiliate with the Information Science major, Cornell students must meet the following requirements: \n1. A grade point average of 2.50 or higher in the required courses, \n2. No single course grade below a \"C\" (with \"C-\" not counting), \n3. Introductory Programming: CS 1110 or CS 1112 (or AP Computer Science A score of 5, or IB Computer Science).",
+    "sources": [
+      "06_bowers_info_affiliation.txt"
+    ],
+    "retrieval": [
+      {
+        "distance": 0.24411529302597046,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 1,
+        "text_preview": "SOURCE: Cornell Bowers — INFO affiliation requirements\nURL: https://infosci.cornell.edu/bachelor-science-information-science/apply\nTYPE: official_department\n\nView Major Requirements\nThe Application Process\nHere’s what you need to apply (also known as “affiliate”) based on where you are in the proces"
+      },
+      {
+        "distance": 0.2564985752105713,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 9,
+        "text_preview": "SOURCE: Cornell Bowers — INFO affiliation requirements\nURL: https://infosci.cornell.edu/bachelor-science-information-science/apply\nTYPE: official_department\n\ned for affiliation.\nApplication Timeline\nCornell CALS students can\napply\n(also known as \"affiliate with\") the Information Science major after "
+      },
+      {
+        "distance": 0.26908576488494873,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 14,
+        "text_preview": "SOURCE: Cornell Bowers — INFO affiliation requirements\nURL: https://infosci.cornell.edu/bachelor-science-information-science/apply\nTYPE: official_department\n\ninformation systems in various contexts.\nDegree Differences\nCourse requirements span written and oral communication, physical and life science"
+      },
+      {
+        "distance": 0.26993799209594727,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 8,
+        "text_preview": "SOURCE: Cornell Bowers — INFO affiliation requirements\nURL: https://infosci.cornell.edu/bachelor-science-information-science/apply\nTYPE: official_department\n\nlass for affiliation purposes only. Minimum grade criteria still apply. INFO 1210, if admitted to the IS major, can count as an IS major elect"
+      },
+      {
+        "distance": 0.27110928297042847,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 4,
+        "text_preview": "SOURCE: Cornell Bowers — INFO affiliation requirements\nURL: https://infosci.cornell.edu/bachelor-science-information-science/apply\nTYPE: official_department\n\non.\nAPPLY NOW\nBecoming a Bowers major.\nApplicants must meet\nall\nof the following requirements to be eligible to apply (also known as “affiliat"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What technology and workload do students report for INFO 3300 (Visual Data Analytics for the Web)?",
+    "expected_answer": "D3.js for web-based data visualizations; roughly 6–8 programming assignments (often 3–4 hours each) plus two group projects; David Mimno is a common instructor and often teaches JavaScript from the basics.",
+    "system_answer": "According to the excerpts, for INFO 3300, the main technology used is D3.js (Document 2). The course description in Document 1 mentions that students use the D3 Javascript library to develop static and dynamic visualizations, learn Javascript programming, and explore web scalable vector graphics (SVG). However, there is no specific information about the workload.",
+    "sources": [
+      "10_coursicle_info_3300.txt",
+      "11_cswiki_info_3300.txt",
+      "03_reddit_cs3780_vs_info2950.txt",
+      "04_daily_sun_info_growing_pains.txt",
+      "05_daily_sun_enrollment_struggles.txt"
+    ],
+    "retrieval": [
+      {
+        "distance": 0.42247331142425537,
+        "source_filename": "10_coursicle_info_3300.txt",
+        "chunk_index": 0,
+        "text_preview": "SOURCE: Coursicle — INFO 3300\nURL: https://www.coursicle.com/cornell/courses/INFO/3300/\nTYPE: course_review_site\nCOURSE: INFO 3300\n\nINFO 3300 - Visual Data Analytics for the Web (formerly Data-Driven Web Applications)\nCredits: 3\nUsually held: MWF (11:15am-12:05pm), MWF (11:20am-12:10pm)\n\nCOURSE DESC"
+      },
+      {
+        "distance": 0.4234575033187866,
+        "source_filename": "11_cswiki_info_3300.txt",
+        "chunk_index": 1,
+        "text_preview": "SOURCE: Unofficial Cornell CS Wiki — INFO/CS 3300\nURL: https://cornellcswiki.gitlab.io/classes/CS3300.html\nTYPE: student_wiki\nCOURSE: INFO 3300\n\nClass on data visualization; main technology used is D3.js. The class is also cross-listed as INFO 3300."
+      },
+      {
+        "distance": 0.45181548595428467,
+        "source_filename": "03_reddit_cs3780_vs_info2950.txt",
+        "chunk_index": 1,
+        "text_preview": "SOURCE: r/Cornell — CS 3780 vs INFO 2950\nURL: https://reddit.com/r/Cornell/comments/1i1a7zb/should_i_take_cs_3780_intro_to_ml_or_info_2950/\nTYPE: reddit\n\nCOMMENT by u/Significant_Head6869:\nAs someone who TAed for INFO 2950, our goal is to get you to understand the fundamentals of Data Science. This "
+      },
+      {
+        "distance": 0.4773775339126587,
+        "source_filename": "04_daily_sun_info_growing_pains.txt",
+        "chunk_index": 12,
+        "text_preview": "SOURCE: Cornell Daily Sun — INFO growing pains\nURL: https://cornellsun.com/2024/03/06/with-over-700-undergraduates-information-science-department-experiences-growing-pains-plans-to-streamline-major/\nTYPE: student_newspaper\n\nIn addition to limited course offerings, large class sizes and overflowing o"
+      },
+      {
+        "distance": 0.5119799971580505,
+        "source_filename": "05_daily_sun_enrollment_struggles.txt",
+        "chunk_index": 20,
+        "text_preview": "SOURCE: Cornell Daily Sun — enrollment struggles\nURL: https://www.cornellsun.com/article/2023/01/computer-and-information-science-students-struggle-with-course-enrollment-adding-stress-instead-of-classes\nTYPE: student_newspaper\n\nstudents completed Computer Science 4320: Introduction to Database Syst"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "For A&S Class of 2025 Information Science majors, what percentage were employed full-time six months after graduation, and which three sectors employed the largest shares?",
+    "expected_answer": "72% employed full-time. Largest sectors: technology (32%), financial services (31%), and management consulting (19%).",
+    "system_answer": "For A&S Class of 2025 Information Science majors, 72% were employed full-time six months after graduation. The three sectors that employed the largest shares were: \n1. Technology sector (32% of employed graduates)\n2. Financial services (31% of employed graduates, typically in tech-related roles)\n3. Management consulting (19% of employed graduates)",
+    "sources": [
+      "12_as_info_career_outcomes.txt",
+      "04_daily_sun_info_growing_pains.txt"
+    ],
+    "retrieval": [
+      {
+        "distance": 0.3904687166213989,
+        "source_filename": "12_as_info_career_outcomes.txt",
+        "chunk_index": 10,
+        "text_preview": "SOURCE: Cornell A&S — INFO career outcomes\nURL: https://as.cornell.edu/major_minor_gradfield/information-science\nTYPE: official_outcomes\n\n(typically in tech-related roles), and 19% entered management consulting.\nWhere 2025 Information Science Graduates Work\nThe top ten employers for these students i"
+      },
+      {
+        "distance": 0.39050722122192383,
+        "source_filename": "12_as_info_career_outcomes.txt",
+        "chunk_index": 6,
+        "text_preview": "SOURCE: Cornell A&S — INFO career outcomes\nURL: https://as.cornell.edu/major_minor_gradfield/information-science\nTYPE: official_outcomes\n\nan information science major were employed full-time (72%), in graduate school (19%), or pursuing other endeavors, such as entrepreneurship (6%).\nGraduate school:"
+      },
+      {
+        "distance": 0.39384937286376953,
+        "source_filename": "12_as_info_career_outcomes.txt",
+        "chunk_index": 5,
+        "text_preview": "SOURCE: Cornell A&S — INFO career outcomes\nURL: https://as.cornell.edu/major_minor_gradfield/information-science\nTYPE: official_outcomes\n\nAll information below is A&S Class of 2025 information science majors’ undergraduate data at six months post-graduation. Explore these outcomes in greater detail "
+      },
+      {
+        "distance": 0.42136818170547485,
+        "source_filename": "12_as_info_career_outcomes.txt",
+        "chunk_index": 9,
+        "text_preview": "SOURCE: Cornell A&S — INFO career outcomes\nURL: https://as.cornell.edu/major_minor_gradfield/information-science\nTYPE: official_outcomes\n\nof Maryland-College Park\nUniversity of Michigan-Ann Arbor\nUniversity of Texas Southwestern Medical Center\nUniversity of Virginia\nUniversity of Hong Kong\nEmploymen"
+      },
+      {
+        "distance": 0.48032599687576294,
+        "source_filename": "04_daily_sun_info_growing_pains.txt",
+        "chunk_index": 2,
+        "text_preview": "SOURCE: Cornell Daily Sun — INFO growing pains\nURL: https://cornellsun.com/2024/03/06/with-over-700-undergraduates-information-science-department-experiences-growing-pains-plans-to-streamline-major/\nTYPE: student_newspaper\n\nIn the last 10 years, according to data from Cornell\nInstitutional Research "
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Is the Information Science major curriculum the same for students in CALS and CAS at Cornell?",
+    "expected_answer": "Yes — the INFO program and core major requirements are the same across colleges. The difference is each college's distribution and foundational requirements.",
+    "system_answer": "The excerpts do not explicitly state that the Information Science major curriculum is the same for students in CALS and CAS. However, Document 1 states that as with A&S (Arts and Sciences) and CALS (College of Agriculture and Life Sciences), students are required to complete five core courses, three electives, and at least one concentration, suggesting some similarities. But it also mentions \"Degree Differences\" and \"Course requirements\" without elaborating on the specifics for each college. Therefore, based on the provided excerpts, the answer is not a clear \"yes\" or \"no\", but since the question asks for a direct comparison and the excerpts mention \"Degree Differences\", the implication is that the curriculum may not be exactly the same. However, since the excerpts do not provide enough information for a definitive answer, the correct response would be: \n\nI don't have enough information on that.",
+    "sources": [
+      "06_bowers_info_affiliation.txt",
+      "01_college_confidential_info_three_colleges.txt",
+      "12_as_info_career_outcomes.txt"
+    ],
+    "retrieval": [
+      {
+        "distance": 0.2924204468727112,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 13,
+        "text_preview": "SOURCE: Cornell Bowers — INFO affiliation requirements\nURL: https://infosci.cornell.edu/bachelor-science-information-science/apply\nTYPE: official_department\n\ndy.\nBest for students who wish to pursue a degree in information systems engineering.\nDegree Similarities\nAs with A&S, you’re required to comp"
+      },
+      {
+        "distance": 0.30393242835998535,
+        "source_filename": "01_college_confidential_info_three_colleges.txt",
+        "chunk_index": 0,
+        "text_preview": "SOURCE: College Confidential — INFO in 3 colleges\nURL: https://talk.collegeconfidential.com/t/cornell-information-science-in-3-different-colleges/1933450\nTYPE: admissions_forum\n\n---\nPOST 1 by krishnadonepudi:\nI am interested in applying to the information science program at Cornell but am really con"
+      },
+      {
+        "distance": 0.3087427616119385,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 14,
+        "text_preview": "SOURCE: Cornell Bowers — INFO affiliation requirements\nURL: https://infosci.cornell.edu/bachelor-science-information-science/apply\nTYPE: official_department\n\ninformation systems in various contexts.\nDegree Differences\nCourse requirements span written and oral communication, physical and life science"
+      },
+      {
+        "distance": 0.32949841022491455,
+        "source_filename": "12_as_info_career_outcomes.txt",
+        "chunk_index": 0,
+        "text_preview": "SOURCE: Cornell A&S — INFO career outcomes\nURL: https://as.cornell.edu/major_minor_gradfield/information-science\nTYPE: official_outcomes\n\nAs an information science major, you’ll have a home in two colleges: Arts and Sciences (A&S) and the\nCornell Ann S. Bowers College of Computing and Information Sc"
+      },
+      {
+        "distance": 0.34323763847351074,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 12,
+        "text_preview": "SOURCE: Cornell Bowers — INFO affiliation requirements\nURL: https://infosci.cornell.edu/bachelor-science-information-science/apply\nTYPE: official_department\n\ne Sciences.\nExplore your degree options.\nCALS\nA&S\nEN\nDegree Awarded\nBachelor of Science in Information Science\nBachelor of Arts in Information"
+      }
+    ]
+  },
+  {
+    "id": "out_of_scope",
+    "question": "What is the best dining hall at Cornell?",
+    "system_answer": "I don't have enough information on that.",
+    "sources": [
+      "02_reddit_class_tier_list.txt",
+      "01_college_confidential_info_three_colleges.txt"
+    ]
+  }
+]

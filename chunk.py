@@ -212,6 +212,15 @@ def chunk_all_documents() -> list[dict[str, Any]]:
     return all_chunks
 
 
+def load_chunks() -> list[dict[str, Any]]:
+    if not CHUNKS_PATH.exists():
+        raise FileNotFoundError(
+            f"{CHUNKS_PATH} not found. Run `python chunk.py` or `python run_m3.py` first."
+        )
+    with CHUNKS_PATH.open(encoding="utf-8") as f:
+        return json.load(f)
+
+
 def save_chunks(chunks: list[dict[str, Any]]) -> Path:
     CHUNKS_PATH.parent.mkdir(parents=True, exist_ok=True)
     with CHUNKS_PATH.open("w", encoding="utf-8") as f:

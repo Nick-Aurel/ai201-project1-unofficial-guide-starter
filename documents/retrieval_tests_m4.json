@@ -1,0 +1,110 @@
+[
+  {
+    "eval_id": 1,
+    "question": "How many undergraduates are declared in Cornell's Information Science major, and what enrollment problem do students describe?",
+    "top_result": {
+      "distance": 0.23214662075042725,
+      "source_filename": "05_daily_sun_enrollment_struggles.txt",
+      "text_preview": "SOURCE: Cornell Daily Sun \u2014 enrollment struggles\nURL: https://www.cornellsun.com/article/2023/01/computer-and-information-science-students-struggle-with-course-enrollment-adding-stress-instead-of-classes\nTYPE: student_newspaper\n\nIn fall 2022, Information Science 2040: Networks had 552 enrolled students while Information Science 1300: Introductory Programming for the Web had 286 students. Informati"
+    },
+    "all_results": [
+      {
+        "distance": 0.23214662075042725,
+        "source_filename": "05_daily_sun_enrollment_struggles.txt",
+        "chunk_index": 6
+      },
+      {
+        "distance": 0.23970389366149902,
+        "source_filename": "04_daily_sun_info_growing_pains.txt",
+        "chunk_index": 12
+      },
+      {
+        "distance": 0.2689230442047119,
+        "source_filename": "05_daily_sun_enrollment_struggles.txt",
+        "chunk_index": 7
+      },
+      {
+        "distance": 0.2725716829299927,
+        "source_filename": "04_daily_sun_info_growing_pains.txt",
+        "chunk_index": 1
+      },
+      {
+        "distance": 0.2835831642150879,
+        "source_filename": "05_daily_sun_enrollment_struggles.txt",
+        "chunk_index": 12
+      }
+    ]
+  },
+  {
+    "eval_id": 2,
+    "question": "What GPA and course requirements must Cornell students meet to affiliate with the Information Science major?",
+    "top_result": {
+      "distance": 0.24411529302597046,
+      "source_filename": "06_bowers_info_affiliation.txt",
+      "text_preview": "SOURCE: Cornell Bowers \u2014 INFO affiliation requirements\nURL: https://infosci.cornell.edu/bachelor-science-information-science/apply\nTYPE: official_department\n\nView Major Requirements\nThe Application Process\nHere\u2019s what you need to apply (also known as \u201caffiliate\u201d) based on where you are in the process.\nTabs\nHigh School Students\nCornell Students\nStudying information science at Cornell.\nBowers gives "
+    },
+    "all_results": [
+      {
+        "distance": 0.24411529302597046,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 1
+      },
+      {
+        "distance": 0.2564985752105713,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 9
+      },
+      {
+        "distance": 0.26908576488494873,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 14
+      },
+      {
+        "distance": 0.26993799209594727,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 8
+      },
+      {
+        "distance": 0.27110928297042847,
+        "source_filename": "06_bowers_info_affiliation.txt",
+        "chunk_index": 4
+      }
+    ]
+  },
+  {
+    "eval_id": 3,
+    "question": "What technology and workload do students report for INFO 3300 (Visual Data Analytics for the Web)?",
+    "top_result": {
+      "distance": 0.42247331142425537,
+      "source_filename": "10_coursicle_info_3300.txt",
+      "text_preview": "SOURCE: Coursicle \u2014 INFO 3300\nURL: https://www.coursicle.com/cornell/courses/INFO/3300/\nTYPE: course_review_site\nCOURSE: INFO 3300\n\nINFO 3300 - Visual Data Analytics for the Web (formerly Data-Driven Web Applications)\nCredits: 3\nUsually held: MWF (11:15am-12:05pm), MWF (11:20am-12:10pm)\n\nCOURSE DESCRIPTION:\nThis course covers technologies for representing, modeling and displaying data in the conte"
+    },
+    "all_results": [
+      {
+        "distance": 0.42247331142425537,
+        "source_filename": "10_coursicle_info_3300.txt",
+        "chunk_index": 0
+      },
+      {
+        "distance": 0.4234575033187866,
+        "source_filename": "11_cswiki_info_3300.txt",
+        "chunk_index": 1
+      },
+      {
+        "distance": 0.45181548595428467,
+        "source_filename": "03_reddit_cs3780_vs_info2950.txt",
+        "chunk_index": 1
+      },
+      {
+        "distance": 0.4773775339126587,
+        "source_filename": "04_daily_sun_info_growing_pains.txt",
+        "chunk_index": 12
+      },
+      {
+        "distance": 0.5119799971580505,
+        "source_filename": "05_daily_sun_enrollment_struggles.txt",
+        "chunk_index": 20
+      }
+    ]
+  }
+]

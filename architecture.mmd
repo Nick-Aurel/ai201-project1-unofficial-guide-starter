@@ -1,0 +1,36 @@
+flowchart TB
+    docs["documents/*.txt<br/>(15 saved sources)"]
+    question["User question"]
+
+    subgraph stage1["1 · Document Ingestion"]
+        ingest["ingest.py<br/>requests · pathlib · BeautifulSoup"]
+    end
+
+    subgraph stage2["2 · Chunking"]
+        chunk["chunk.py<br/>450 chars · 80 overlap · per-source rules"]
+    end
+
+    subgraph stage3["3 · Embedding + Vector Store"]
+        embed["embed.py<br/>sentence-transformers<br/>all-MiniLM-L6-v2"]
+        chroma["ChromaDB<br/>chroma_db/ + metadata"]
+        embed --> chroma
+    end
+
+    subgraph stage4["4 · Retrieval"]
+        retrieve["retrieve.py<br/>top-k = 5 similarity search"]
+    end
+
+    subgraph stage5["5 · Generation"]
+        query["query.py<br/>grounded prompt + source attribution"]
+        groq["Groq API<br/>llama-3.3-70b-versatile"]
+        query --> groq
+    end
+
+    app["app.py · Gradio UI"]
+    answer["Grounded answer + cited sources"]
+
+    docs --> ingest --> chunk --> embed
+    chroma --> retrieve
+    question --> retrieve
+    retrieve --> query
+    groq --> app --> answer

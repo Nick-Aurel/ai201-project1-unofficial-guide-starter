@@ -124,6 +124,18 @@ If cost were not a constraint and this served real Cornell INFO students at scal
 - **Latency & hosting:** MiniLM runs fast on CPU and keeps the stack free/local. API-hosted embeddings add network latency and per-token cost but scale better for thousands of concurrent users.
 - **Local vs. API:** Local embeddings keep student data private and avoid rate limits; API embeddings simplify ops but introduce vendor dependency.
 
+**Milestone 4 retrieval tests (eval Q1–Q3):** Implemented in `embed.py`, `retrieve.py`, `run_m4.py`. Results saved to `documents/retrieval_tests_m4.json`. All 353 chunks embedded in ChromaDB (`chroma_db/`) with cosine distance.
+
+| Eval Q | Top source | Best distance | Relevant? |
+|--------|------------|---------------|-----------|
+| 1 — INFO enrollment / headcount | `04_daily_sun_info_growing_pains.txt` (chunk 1: "700+ undergraduates") + `05_daily_sun_enrollment_struggles.txt` | **0.232** | Yes — top 5 all Daily Sun; cites 700+ majors and add/drop / spring-offering pain |
+| 2 — Affiliation GPA & courses | `06_bowers_info_affiliation.txt` (chunks on affiliation requirements) | **0.244** | Yes — top 5 all Bowers apply page with GPA 2.50 and core-course rules |
+| 3 — INFO 3300 tech & workload | `10_coursicle_info_3300.txt` + `11_cswiki_info_3300.txt` (D3.js) | **0.423** | Yes — top 2 are INFO 3300 course sources; distances higher than Q1–Q2 but still on-topic (no Mimno INFO 2950 collision in top results) |
+
+Run: `python run_m4.py` (re-embeds + tests). Single query: `python retrieve.py "your question"`.
+
+**Milestone 5 generation (smoke tests):** `query.py` + `app.py` (Gradio). Model: `llama-3.3-70b-versatile` via Groq. Sources are attached programmatically from retrieval metadata (not left to the LLM). Out-of-scope test ("best dining hall") returns the refusal phrase. Results saved to `documents/generation_tests_m5.json`. Run: `python app.py` or `python run_m5.py`.
+
 ---
 
 ## Evaluation Plan
@@ -156,27 +168,47 @@ Each question targets a different subtopic in the Documents table and has a veri
 
 ## Architecture
 
+Pipeline diagram (five stages required by the project spec). Source lives in `architecture.mmd`; rendered preview below.
+
+![RAG pipeline architecture](architecture.png)
+
 ```mermaid
-flowchart LR
-    subgraph M3["Milestone 3 — Ingestion & Chunking"]
-        A["documents/*.txt\n(local saved sources)"] --> B["ingest.py\nrequests / pathlib\n+ BeautifulSoup cleanup"]
-        B --> C["chunk.py\nrecursive + per-source rules\n450 chars / 80 overlap"]
+flowchart TB
+    docs["documents/*.txt<br/>(15 saved sources)"]
+    question["User question"]
+
+    subgraph stage1["1 · Document Ingestion"]
+        ingest["ingest.py<br/>requests · pathlib · BeautifulSoup"]
     end
 
-    subgraph M4["Milestone 4 — Embedding & Retrieval"]
-        C --> D["embed.py\nsentence-transformers\nall-MiniLM-L6-v2"]
-        D --> E["ChromaDB\nchroma_db/\n+ metadata"]
-        E --> F["retrieve.py\ntop-k=5 similarity search"]
+    subgraph stage2["2 · Chunking"]
+        chunk["chunk.py<br/>450 chars · 80 overlap · per-source rules"]
     end
 
-    subgraph M5["Milestone 5 — Generation & Interface"]
-        F --> G["query.py\nprompt template\n+ source attribution"]
-        G --> H["Groq API\nllama-3.3-70b-versatile"]
-        H --> I["app.py\nGradio UI\nquestion → answer + sources"]
+    subgraph stage3["3 · Embedding + Vector Store"]
+        embed["embed.py<br/>sentence-transformers<br/>all-MiniLM-L6-v2"]
+        chroma["ChromaDB<br/>chroma_db/ + metadata"]
+        embed --> chroma
     end
 
-    Q["User question"] --> F
-    I --> R["Grounded answer\n+ cited sources"]
+    subgraph stage4["4 · Retrieval"]
+        retrieve["retrieve.py<br/>top-k = 5 similarity search"]
+    end
+
+    subgraph stage5["5 · Generation"]
+        query["query.py<br/>grounded prompt + source attribution"]
+        groq["Groq API<br/>llama-3.3-70b-versatile"]
+        query --> groq
+    end
+
+    app["app.py · Gradio UI"]
+    answer["Grounded answer + cited sources"]
+
+    docs --> ingest --> chunk --> embed
+    chroma --> retrieve
+    question --> retrieve
+    retrieve --> query
+    groq --> app --> answer
 ```
 
 **Stage summary**
