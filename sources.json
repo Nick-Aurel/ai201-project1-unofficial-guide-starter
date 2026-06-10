@@ -1,0 +1,114 @@
+[
+  {
+    "id": "01",
+    "filename": "01_college_confidential_info_three_colleges.txt",
+    "source_url": "https://talk.collegeconfidential.com/t/cornell-information-science-in-3-different-colleges/1933450",
+    "source_type": "admissions_forum",
+    "title": "College Confidential — INFO in 3 colleges"
+  },
+  {
+    "id": "02",
+    "filename": "02_reddit_class_tier_list.txt",
+    "source_url": "https://reddit.com/r/Cornell/comments/1kmjbs3/tier_list_of_every_class_ive_taken_at_cornell/",
+    "source_type": "reddit",
+    "title": "r/Cornell — class tier list",
+    "reddit_id": "1kmjbs3"
+  },
+  {
+    "id": "03",
+    "filename": "03_reddit_cs3780_vs_info2950.txt",
+    "source_url": "https://reddit.com/r/Cornell/comments/1i1a7zb/should_i_take_cs_3780_intro_to_ml_or_info_2950/",
+    "source_type": "reddit",
+    "title": "r/Cornell — CS 3780 vs INFO 2950",
+    "reddit_id": "1i1a7zb"
+  },
+  {
+    "id": "04",
+    "filename": "04_daily_sun_info_growing_pains.txt",
+    "source_url": "https://cornellsun.com/2024/03/06/with-over-700-undergraduates-information-science-department-experiences-growing-pains-plans-to-streamline-major/",
+    "source_type": "student_newspaper",
+    "title": "Cornell Daily Sun — INFO growing pains"
+  },
+  {
+    "id": "05",
+    "filename": "05_daily_sun_enrollment_struggles.txt",
+    "source_url": "https://www.cornellsun.com/article/2023/01/computer-and-information-science-students-struggle-with-course-enrollment-adding-stress-instead-of-classes",
+    "source_type": "student_newspaper",
+    "title": "Cornell Daily Sun — enrollment struggles"
+  },
+  {
+    "id": "06",
+    "filename": "06_bowers_info_affiliation.txt",
+    "source_url": "https://infosci.cornell.edu/bachelor-science-information-science/apply",
+    "source_type": "official_department",
+    "title": "Cornell Bowers — INFO affiliation requirements"
+  },
+  {
+    "id": "07",
+    "filename": "07_rmp_david_mimno.txt",
+    "source_url": "https://www.ratemyprofessors.com/professor/2119129",
+    "source_type": "professor_reviews",
+    "title": "Rate My Professors — David Mimno",
+    "course_code": "INFO 2950"
+  },
+  {
+    "id": "08",
+    "filename": "08_rmp_allison_koenecke.txt",
+    "source_url": "https://www.ratemyprofessors.com/professor/2914049",
+    "source_type": "professor_reviews",
+    "title": "Rate My Professors — Allison Koenecke",
+    "course_code": "INFO 2950"
+  },
+  {
+    "id": "09",
+    "filename": "09_reddit_info_concentration_pm.txt",
+    "source_url": "https://reddit.com/r/Cornell/comments/10hj6vg/which_info_sci_concentration_for_product/",
+    "source_type": "reddit",
+    "title": "r/Cornell — INFO concentration for PM",
+    "reddit_id": "10hj6vg"
+  },
+  {
+    "id": "10",
+    "filename": "10_coursicle_info_3300.txt",
+    "source_url": "https://www.coursicle.com/cornell/courses/INFO/3300/",
+    "source_type": "course_review_site",
+    "title": "Coursicle — INFO 3300",
+    "course_code": "INFO 3300"
+  },
+  {
+    "id": "11",
+    "filename": "11_cswiki_info_3300.txt",
+    "source_url": "https://cornellcswiki.gitlab.io/classes/CS3300.html",
+    "source_type": "student_wiki",
+    "title": "Unofficial Cornell CS Wiki — INFO/CS 3300",
+    "course_code": "INFO 3300"
+  },
+  {
+    "id": "12",
+    "filename": "12_as_info_career_outcomes.txt",
+    "source_url": "https://as.cornell.edu/major_minor_gradfield/information-science",
+    "source_type": "official_outcomes",
+    "title": "Cornell A&S — INFO career outcomes"
+  },
+  {
+    "id": "13",
+    "filename": "13_cswiki_careers.txt",
+    "source_url": "https://cornellcswiki.gitlab.io/careers/opportunities.html",
+    "source_type": "student_wiki",
+    "title": "Unofficial Cornell CS Wiki — careers"
+  },
+  {
+    "id": "14",
+    "filename": "14_jiang_fellows_info_internship.txt",
+    "source_url": "https://eship.cornell.edu/jiang-fellows-tell-all/",
+    "source_type": "student_career_story",
+    "title": "Entrepreneurship at Cornell — Jiang Fellows"
+  },
+  {
+    "id": "15",
+    "filename": "15_bowers_chi_2026_research.txt",
+    "source_url": "https://infosci.cornell.edu/news-stories/cornell-researchers-contribute-more-40-papers-chi-2026",
+    "source_type": "campus_news",
+    "title": "Cornell Bowers — CHI 2026 research news"
+  }
+]
