@@ -1,0 +1,93 @@
+SOURCE: Unofficial Cornell CS Wiki — INFO/CS 3300
+URL: https://cornellcswiki.gitlab.io/classes/CS3300.html
+TYPE: student_wiki
+COURSE: INFO 3300
+INFO/CS 3300 - Data-Driven Web Applications
+
+General Information
+
+Class on data visualization; main technology used is D3.js. The class is also cross-listed as INFO 3300.
+
+Prerequisites
+
+The pre-requisites include INFO/CS 2300 and CS 2110, but you don’t need them if you have basic knowledge of JavaScript and web programming. In fact, the current professor (David Mimno) will teach JavaScript essentially from the ground up in the beginning of the course.
+
+Topics Covered
+
+JavaScript functions, iterative/recursive loops, conditionals
+
+JSON data structure and manipulation
+
+Mathematical data visualization and interpretation
+
+Workload
+
+Several (6-8) programming assignments that generally don’t take more than a few (3-4) hours. Some of them can be completed in as little as 30 minutes - Spring 2015 & 2016. Two group projects with randomized groups of 3.
+
+General Advice
+
+Talk to TAs if you need help, search for online tutorials and guides with D3.js.
+
+Testimonials
+
+Class has very interesting potential, but in lecture he seems to cater towards the lowest common denominator. As such, the lecture can move quite slowly because Prof. Mimno insisted on asking questions to the audience and waiting for responses every time.
+
+Took class Spring 2016, great professor but a little heavy on in-class participation. Wasn’t hard class as long as you didn’t procrastinate on assignments or goof off. Had lots of interesting lectures and topics, many of them concerning current events so as to keep things lively and engaging.
+
+Past Offerings
+
+Semester
+
+Time
+
+Professor
+
+Median Grade
+
+Course Page
+
+Spring 2015
+
+MWF 11:15am - 12:05pm
+
+David Mimno
+
+?
+
+https://github.com/mimno/info3300-spr2015
+
+Spring 2016
+
+MWF 11:15am - 12:05pm
+
+David Mimno
+
+?
+
+https://github.com/mimno/info3300-spr2016
+
+Spring 2017
+
+MWF 11:15am - 12:05pm
+
+David Mimno
+
+A
+
+https://github.com/mimno/info3300-spr2017
+
+Spring 2018
+
+MWF 11:15am - 12:05pm
+
+David Mimno
+
+?
+
+https://github.com/mimno/info3300-spr2018
+
+Resources
+
+https://www.dashingd3js.com/table-of-contents - Great tutorial on D3.js for beginners, goes hand in hand with lecture
+
+Edit this page on GitHub: classes/CS3300.md

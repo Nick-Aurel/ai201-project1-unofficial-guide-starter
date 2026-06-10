@@ -84,6 +84,26 @@ Our corpus is mixed-format, not uniform reviews or uniform long guides:
 
 **Preprocessing before chunking:** Strip HTML tags and entities (`&amp;`, `&nbsp;`), remove nav/footer boilerplate ("Read more", cookie banners, share buttons), collapse repeated whitespace, and attach metadata to every chunk: `source_filename`, `source_url`, `source_type`, `chunk_index`.
 
+**Final chunk count (Milestone 3):** **353 chunks** across 15 documents (within the 50–2,000 target). Implemented in `ingest.py` + `chunk.py`; output saved to `documents/chunks.json`. Run with: `python run_m3.py`.
+
+| Document | Chunks |
+|----------|--------|
+| 01_college_confidential | 9 |
+| 02_reddit_tier_list | 80 |
+| 03_reddit_cs3780_vs_info2950 | 6 |
+| 04_daily_sun_growing_pains | 34 |
+| 05_daily_sun_enrollment | 24 |
+| 06_bowers_affiliation | 15 |
+| 07_rmp_mimno | 10 |
+| 08_rmp_koenecke | 12 |
+| 09_reddit_pm_concentration | 3 |
+| 10_coursicle_info3300 | 3 |
+| 11_cswiki_info3300 | 9 |
+| 12_as_career_outcomes | 9 |
+| 13_cswiki_careers | 19 |
+| 14_jiang_fellows | 49 |
+| 15_bowers_chi_news | 71 |
+
 ---
 
 ## Retrieval Approach

@@ -1,0 +1,19 @@
+SOURCE: Coursicle — INFO 3300
+URL: https://www.coursicle.com/cornell/courses/INFO/3300/
+TYPE: course_review_site
+COURSE: INFO 3300
+
+INFO 3300 - Visual Data Analytics for the Web (formerly Data-Driven Web Applications)
+Credits: 3
+Usually held: MWF (11:15am-12:05pm), MWF (11:20am-12:10pm)
+
+COURSE DESCRIPTION:
+This course covers technologies for representing, modeling and displaying data in the context of interactive web pages. Practical skills for building web pages are mixed with data mining algorithms and visualization design theory. Students use the D3 Javascript library to develop static and dynamic visualizations, learn Javascript programming, and explore web scalable vector graphics (SVG). Application required for enrollment.
+
+STUDENT REVIEWS (Coursicle):
+
+Review 1 — David Mimno, Sophomore INFO major:
+"Tedious contents along with lots of homework"
+
+Review 2 — David Mimno, Sophomore INFO major:
+"Good lecturer, keeps things interesting and recent (in the news data visualizations). Sometimes assignment prompts are unclear or short. Helps if you've taken INFO/CS 2300, 2110 not really needed"

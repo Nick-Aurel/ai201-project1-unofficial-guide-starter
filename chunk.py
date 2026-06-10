@@ -114,16 +114,34 @@ def split_reddit_comments(text: str) -> list[str]:
 
 
 def split_reviews(text: str) -> list[str]:
-    """Split professor/course reviews on blank lines or review-like markers."""
-    blocks = split_paragraphs(text)
-    chunks: list[str] = []
+    """Split professor/course reviews into one chunk per review when possible."""
+    rmp_blocks = re.split(
+        r"(?=INFO\d{4}\s*\n(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec))",
+        text,
+    )
+    rmp_blocks = [b.strip() for b in rmp_blocks if b.strip() and len(b.strip()) >= MIN_CHUNK_LEN]
 
+    if len(rmp_blocks) > 1:
+        chunks: list[str] = []
+        for block in rmp_blocks:
+            if len(block) <= SHORT_DOC_MAX:
+                chunks.append(block)
+            else:
+                chunks.extend(fixed_size_chunks(block))
+        return chunks
+
+    coursicle_blocks = re.split(r"(?=Review \d+ —)", text)
+    coursicle_blocks = [b.strip() for b in coursicle_blocks if b.strip() and len(b.strip()) >= MIN_CHUNK_LEN]
+    if len(coursicle_blocks) > 1:
+        return coursicle_blocks
+
+    blocks = split_paragraphs(text)
+    chunks = []
     for block in blocks:
         if len(block) <= SHORT_DOC_MAX:
             chunks.append(block)
         else:
             chunks.extend(fixed_size_chunks(block))
-
     return chunks
 
 

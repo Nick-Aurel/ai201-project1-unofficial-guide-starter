@@ -1,0 +1,24 @@
+SOURCE: r/Cornell — CS 3780 vs INFO 2950
+URL: https://reddit.com/r/Cornell/comments/1i1a7zb/should_i_take_cs_3780_intro_to_ml_or_info_2950/
+TYPE: reddit
+POST TITLE: Should I take CS 3780 (intro to ML) or Info 2950 (Intro to Data Science)
+SUBREDDIT: r/Cornell
+
+POST BODY:
+It seems like CS 3780 focus more on the math of machine learning, and data science focus on the overall process of collecting, cleaning, training, evaluating and such. 
+
+Is it recommended to take one before the other? (data science -&gt; ml)
+
+Would taking data science after machine learning be redundant?
+
+---
+COMMENT by u/Significant_Head6869:
+As someone who TAed for INFO 2950, our goal is to get you to understand the fundamentals of Data Science. This means learning data scraping tools, combining and organizing data frames, making feasible tests to understand the data, etc., then being able to display it with informative graphs and subsequent analysis to help an audience understand. We also go over how to use python packages that help with this (SQL, BeautifulSoup, etc.) and encourage people to explore the internet for tools outside of class (as long as they cite it). The most we touch on for ML is around the time we go over bootstrapping, but 3780 also has a lot more in-depth ideas (Probability Modeling, which is beyond our class), actual use of Linear Algebra, and proficient coding experience (Like CS2110). 
+
+If you're Info Sci-Data Sci, I definitely recommend taking 2950 before 3780, but if not, I'd prioritize learning Modeling and Coding and just take 3780 as the other commenter said. Hope this helps!
+---
+
+---
+COMMENT by u/jin_ga:
+They don’t really cover the same content. INFO 2950 is much more about basic data manipulation and a lot of the statistics related to data science (with a tiny bit of ML at the end), while CS 3780 is a much more technical and theoretical undertaking of the theories and algorithms that back machine learning. 2950 might help you with 3780, but not significantly so. But taking 3780 means you probably wouldn’t need 2950 after.
+---

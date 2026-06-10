@@ -16,5 +16,8 @@ env/
 chroma_db/
 chroma/
 
+# Raw HTML captures from ingestion (cleaned .txt is kept)
+documents/raw/
+
 # macOS
 .DS_Store

@@ -1,0 +1,381 @@
+SOURCE: Cornell Bowers — CHI 2026 research news
+URL: https://infosci.cornell.edu/news-stories/cornell-researchers-contribute-more-40-papers-chi-2026
+TYPE: campus_news
+On
+April 14, 2026
+Share
+
+Cornell researchers will have a major presence at the
+Association for Computing Machinery’s Conference on Human Factors in Computing Systems
+(CHI 2026), the premier international venue for human–computer interaction. This year, faculty, students, and collaborators across Cornell — including the Cornell Ann S. Bowers College of Computing and Information Science, Cornell AAP, Cornell Duffield Engineering, Cornell Human Ecology, the Cornell University School of Industrial and Labor Relations, Cornell Tech, and the College of Agriculture and Life Science — contributed more than 40 papers spanning AI safety, accessibility, digital well‑being, creative tools, robotics, and sociotechnical systems.
+CHI ’26, held this week in Barcelona, Spain, is among the most visible conferences in computing, drawing thousands of submissions from around the world. Cornell’s strong showing reflects the university’s leadership in human‑centered AI, responsible technology design, and interdisciplinary research that bridges computing with the social sciences, design, and the arts.
+Cornell‑affiliated papers this year explore how AI systems can be made safer, more equitable, and more accessible; how creative and fabrication tools can better support human reasoning; how communities can shape data practices; and how emerging technologies can strengthen care, collaboration, and communication. Several papers also examine the societal impacts of AI systems, including fairness in recommender systems, digital‑safety risks, and the influence of AI‑assisted writing.
+The following lists includes all CHI papers with Cornell-affiliated authors. (*) Denotes lead author.
+
+Best Paper Award
+Interactive Explainable Ranking
+*Chao Zhang
+— doctoral student in the field of information science, Cornell Bowers
+Abe Davis
+— assistant professor of computer science, Cornell Bowers
+
+Honorable Mention
+Co-Designing Environment-Based Strategies with Neurodivergent Individuals for Sensory-Inclusive Dental Visit Experiences
+*Serena Ge Guo Ph.D. ‘25 –
+currently a postdoctoral research associate and lecturer at the University of Wisconsin-Madison’s Information School
+Nayeon Kwon
+— doctoral student in the field of information science, Cornell Bowers
+Andrea Stevenson Won
+— associate professor of communication, College of Agriculture and Life Sciences
+Gilly Leshed
+— teaching professor and the director of the MPS program in the Department of Information Science, Cornell Bowers
+Keith Evan Green
+— Jean and Douglas McLean Professor of Human Centered Design, Cornell Human Ecology
+
+DanXeReflect: Interacting with the Spatio-Temporal Past Movements for Embodied, Reflective Choreographic Collaboration
+*Hyunju Kim
+— doctoral student in the field of information science, Cornell Bowers
+François Guimbretière
+— professor of information science, Cornell Bowers
+
+How Multimodal Large Language Models Support Access to Visual Information: A Diary Study With Blind and Low Vision People
+*Ricardo Enrique Gonzalez Penuela
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Crescentia Jung
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Sharon Lin
+— M.S., ‘25,
+Cornell Tech and Cornell Bowers
+Ruiying Hu
+— M.S., ‘25, Cornell Tech and Cornell Bowers
+Shiri Azenkot
+— associate professor of information science at Cornell Tech, Cornell Bowers, the Jacobs Technion-Cornell Institute, and the Technion-Israel Institute of Technology
+
+MIND: Empowering Mental Health Clinicians with Multimodal Data Insights through a Narrative Dashboard
+Daniel Adler
+— postdoctoral associate at Cornell University
+
+Understanding Remote Mental Health Supporters’ Help-Seeking in Online Communities
+*Tuan-He Lee
+— doctoral student in the field of information science, Cornell Bowers
+Gilly Leshed
+— teaching professor and the Director of the MPS program in the Department of Information Science, Cornell Bowers
+
+Additional Papers
+AI-Facilitated Coercive Control: An Experimental Study
+*Haesoon Kim
+— doctoral student in the field of information science, Cornell Bowers
+Nicola Dell
+— associate professor of information science at Cornell Tech, the Jacobs Technion-Cornell Institute, and Cornell Bowers
+
+Beyond Community Notes: A Framework for Understanding and Building Crowdsourced Context Systems for Social Media
+*Travis Lloyd
+—
+
+doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Tung Nguyen
+—
+
+M.S. ‘26, Cornell Tech and Cornell Bowers
+Karen Levy
+
+—
+
+associate professor of information science, Cornell Bowers and Cornell Law
+Mor Naaman
+— the Don and Mibs Follett professor of information science at Cornell Tech, the Jacobs Technion-Cornell Institute, and Cornell Bowers
+
+Characterizing Unintended Consequences of GUI Agents For Web Browsing
+Jingruo Chen
+— doctoral student in the field of information science, Cornell Bowers
+
+CineCraft: Unified Shot Planning, Capture, and Post-Processing for Mobile Cinematography
+*Nhan (Nathan) Tran
+— doctoral student in the field of computer science, Cornell Tech
+Sam Belliveau ’27
+Zixin Xu ’24
+Abe Davis
+
+— assistant professor of computer science, Cornell Bowers
+
+Circuit2Yarn: From Planar Circuits to Electronic Yarns for Textile-based Interactions
+Tianhong Catherine Yu
+— doctoral student in the field of information science, Cornell Bowers
+
+Collaborative Upstanding: Exploring Conversational Strategies for Cyberbullying Upstanding Education
+*Haesoo Kim
+— doctoral student in the field of information science, Cornell Bowers
+Nader Akoury
+— postdoctoral associate, information science, Cornell Bowers
+Julia A. Sebastien
+— doctoral student in the field of communications, College of Agriculture and Life Sciences
+S. Isabelle McLeod Daphnis
+— lab manager, College of Agriculture and Life Sciences
+Ryun Shim, MPS ’24
+Natalie Bazarova
+— professor of communications, College of Agriculture and Life Sciences; associate vice provost for research, Cornell University
+Qian Yang
+— assistant professor of information science, Cornell Bowers
+
+Comparing Fabrication Workflows in CAD to Support Design Reasoning
+*
+Shuo Feng
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Xuening Wang
+— M.S. ‘25, Cornell Tech and Cornell Bowers
+Yifan Shan
+— M.S. ‘25, Cornell Tech and Cornell Bowers
+Krista U. Singh
+—
+CUNY Honors Connect Student at Cornell Tech
+Bo Liu
+— doctoral student in the field of computer science, Cornell Tech and Cornell Bowers
+Amritansh Kwatra
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Ritik Batra
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Tobias Weinberg
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Thijs Roumen
+— assistant professor of information science at Cornell Tech and Cornell Bowers
+
+Convivial Fabrication: Towards Relational Computational Tools For and From Craft Practices
+*Ritik Batra
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Roy Zunder
+— research assistant, Cornell Tech
+Amy Cheatle
+— doctoral student in the field of science and technology studies, Cornell University College of Arts and Sciences
+Amritansh Kwatra
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Ilan Mandel
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Thijs Roumen
+— assistant professor of information science at Cornell Tech and Cornell Bowers
+Steven Jackson
+— professor of information science, Cornell Bowers, and vice provost for academic innovation, Cornell University
+
+Designing Culturally Aligned AI Systems for Social Good in Non-Western Contexts
+*Deepak Varuvel Dennison
+— doctoral student in the field of information science, Cornell Bowers
+Aditya Vashistha
+— assistant professor of information science, Cornell Bowers
+
+Designing for Wayfinding in VR: Linking Navigation Interfaces to Spatial Learning and Cognitive Mapping
+*Armin Mostafavi
+— postdoctoral researcher, Cornell Human Ecology
+Zhiwen (Calvin) Qiu
+— doctoral student in the field of information science, Cornell Bowers
+Tong (Bill) Xu
+— graduate student, Cornell Human Ecology
+Wenqian (Nina) Niu
+— graduate student, Cornell Human Ecology
+Saleh Kalantari
+— Lois and Mel Tukman Assistant Professor, Cornell Human Ecology
+
+Engaging Communities Meaningfully in Defining Disability Representation for AI Image Generation
+Madiha Zahrah Choksi
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+
+EvaluAId: Human-AI Collaborative Evaluation of Open-Ended Student Essays
+*Chao Zhang
+— doctoral student in the field of information science, Cornell Bowers
+
+Fairness-in-the-Workflow: How Machine Learning Practitioners at Big Tech Companies Approach Fairness in Recommender Systems
+*Jing Nathan Yan
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Emma Harvey
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Junxiong Wang
+— doctoral student in the field of computer science, Cornell Tech and Cornell Bowers
+Allison Koenecke
+— assistant professor of information science at Cornell Tech and Cornell Bowers
+
+Framing Responsible Design of AI for Mental Well-Being: AI as Primary Care, Nutritional Supplement, or Yoga Instructor?
+*Ned Cooper
+— postdoctoral associate, DesignAI Studio
+Jose A. Guridi
+— doctoral student in the field of information science, Cornell Bowers
+Qian Yang
+— assistant professor of information science, Cornell Bowers
+
+From Clicks to Consensus: Collective Consent Assemblies for Data Governance
+Paul Gölz
+— assistant professor, School of Operations Research and Information Engineering (ORIE), Cornell Duffield Engineering
+
+“Having Confidence in My Confidence Intervals”: How Data Users Engage with Privacy-Protected Wikipedia Data
+*Harold Triedman
+— doctoral student in the field of computer science, Cornell Tech and Cornell Bowers
+
+I, Robot? Exploring Ultra-Personalized AI-Powered AAC; an Autoethnographic Account
+*Tobias Weinberg
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Ricardo Enrique Gonzalez Penuela
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Thijs Roumen
+— assistant professor of information science at Cornell Tech and Cornell Bowers
+
+LLMs Homogenize Values in Constructive Arguments on Value-Laden Topics
+*Farhana Shahid
+— doctoral student in the field of information science, Cornell Bowers
+Stella Zhang ’28
+Aditya Vashistha
+— assistant professor of information science, Cornell Bowers
+
+Lost in Transcription: Subtitle Errors in Automatic Speech Recognition Reduce Speaker and Content Evaluations
+*Kowe Kadoma
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Mor Naaman
+— the Don and Mibs Follett professor of information science at Cornell Tech, the Jacobs Technion-Cornell Institute, and Cornell Bowers
+
+Narrix: Remixing Narrative Strategies from Examples for Story Writing
+*Chao Zhang
+— doctoral student in the field of information science, Cornell Bowers
+Abe Davis
+— assistant professor of computer science, Cornell Bowers
+
+New Enactments of Expertise: Software Engineers’ Evaluation and Demonstration of Coding Expertise with AI Coding Assistants
+*Yeonju Jang
+— doctoral student in the field of information science, Cornell Bowers
+Mose Sakashita Ph.D. ‘25
+– currently a senior researcher at Fujitsu Research of America
+
+Privacy Cards: Surfacing Mental Models and Exploring Privacy Concerns of Voice-First Ambient Interfaces
+Deborah Estrin
+— Robert V. Tishman ’37 professor of computer science and associate dean for impact at Cornell Tech, professor of computer science at Cornell Bowers, affiliate faculty member at Weill Cornell Medicine
+
+Reconfiguring the Home: Co-Designing the Future of Adaptive Domestic Environments
+*Serena Ge Guo Ph.D. ‘25 –
+currently a postdoctoral research associate and lecturer at the University of Wisconsin-Madison’s Information School
+Jenny J. Yu
+— doctoral student, Weill Cornell Medicine
+Gilly Leshed
+— teaching professor and the director of the MPS program in the Department of Information Science, Cornell Bowers
+Keith Evan Green
+— Jean and Douglas McLean Professor of Human Centered Design, Cornell Human Ecology
+
+Reactive Writers: How Co-Writing with AI Changes How We Engage with Ideas
+Mor Naaman
+— the Don and Mibs Follett professor of information science at Cornell Tech, the Jacobs Technion-Cornell Institute, and Cornell Bowers
+
+Risk, Data, Alignment: Making Credit Scoring Work in Kenya
+*Daniel Mwesigwa
+— doctoral student in the field of information science, Cornell Bowers
+Steven Jackson
+— professor of information science, Cornell Bowers, and vice provost for academic innovation, Cornell University
+Christopher Csikszentmihalyi
+— associate professor of information science, Cornell Bowers
+
+Sharing the Care: Investigating How Conversational AI Might Facilitate Coordination Among Home Care Workers and Family Caregivers
+*Ian René Solano-Kamaiko
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Ariel C. Avgar
+— professor of labor relations, law, and history, Cornell University School of Industrial and Labor Relations
+Madeline Sterling
+— associate professor of medicine at Weill Cornell Medicine
+Aditya Vashistha
+— assistant professor of information science, Cornell Bowers
+Nicola Dell
+— associate professor of information science at Cornell Tech, the Jacobs Technion-Cornell Institute, and Cornell Bowers
+
+SituFont: A Just-in-Time Adaptive Intervention Interface for Enhancing Mobile Readability in Situational Visual Impairments
+*Jingruo Chen
+— doctoral student in the field of information science, Cornell Bowers
+
+The State’s Politics of “Fake Data”
+danah boyd
+— Geri Gay Professor of Communication, College of Agriculture and Life Sciences
+
+Speculating with Older Adults in HCI: A Scoping Review
+Luhua Chen
+— master’s student in the field of Design + Health
+
+TALES: A Taxonomy and Analysis of Cultural Representations in LLM-Generated Stories
+Aditya Vashistha
+— assistant professor of information science, Cornell Bowers
+
+Towards Considerate Embodied AI: Co-Designing Situated Multi-Site Healthcare Robots from Abstract Concepts to High-Fidelity Prototypes
+*Yuanchen Bai
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Ruixiang Han
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Niti Parikh
+— director of learning spaces and MakerLABs, Cornell Tech
+Wendy Ju
+— professor of information science and design tech at Cornell Tech, Cornell Bowers, AAP, the Jacobs Technion-Cornell Institute, and the Technion-Israel Institute of Technology.
+Angelique Taylor
+— Andrew H. and Ann R. Tisch Assistant Professor at Cornell Tech and professor of computer science at Cornell Bowers
+
+Tracing Creativity: A Design Space For Creative Activity Traces in HCI
+Max Kreminski
+— assistant professor of design tech, Cornell Tech and Cornell AAP
+
+Understanding How Accessibility Practices Impact Teamwork in Mixed-Ability Teams that Collaborate Virtually
+*Crescentia Jung
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Kexin Cheng
+— M.S., ‘25, Cornell Tech and Cornell Bowers
+Sharon Heung
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Malte Jung
+— associate professor of information science at Cornell Bowers; Nancy H. ’62 and Philip M. ’62 Young Sesquicentennial Faculty Fellow
+Shiri Azenkot
+— associate professor of information science at Cornell Tech, Cornell Bowers, the Jacobs Technion-Cornell Institute, and the Technion-Israel Institute of Technology
+
+Understanding the Use of a Large Language Model-Powered Guide to Make Virtual Reality Accessible for Blind and Low Vision People
+*Jazmin Collins
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+Sharon Lin
+— M.S., ‘25, Cornell Tech and Cornell Bowers
+Tianqi Liu
+—
+
+doctoral student in the field of information science, Cornell Bowers
+Andrea Stevenson Won
+— associate professor of communication, Cornell University College of Agriculture and Life Sciences
+Shiri Azenkot
+— associate professor of information science at Cornell Tech, Cornell Bowers, the Jacobs Technion-Cornell Institute, and the Technion-Israel Institute of Technology
+
+Understanding Older Adults’ Experiences of Support, Concerns, and Risks from Kinship-Role AI-Generated Influencers
+Han Li
+— postdoctoral associate, Department of Communication
+
+UnWEIRDing Peer Review in Human-Computer Interaction
+Farhana Shahid
+— doctoral student in the field of information science, Cornell Bowers
+
+WatchHand: Enabling Continuous Hand Pose Tracking on Off-the-Shelf Smartwatches
+*Chi-Jung Lee –
+doctoral student in the field of information science, Cornell Bowers
+*Jiwan Kim
+– formerly a visiting researcher in Cornell’s SciFi Lab and currently a doctoral student at KAIST
+Tianhong Catherine Yu
+— doctoral student in the field of information science, Cornell Bowers
+Ruidong Zhang
+— doctoral student in the field of information science, Cornell Bowers
+Cheng Zheng
+— associate professor of information science, Cornell Bowers
+
+“When We’re Looking at the Robot, We See Each Other”: A Comparison of Robotic, Mirror-Based, and Hybrid Interventions for Stranger Interaction
+*Serena Ge Guo Ph.D. ‘25 –
+currently a postdoctoral research associate and lecturer at the University of Wisconsin-Madison’s Information School
+Jenny J. Yu
+— doctoral student, Weill Cornell Medicine
+Wenqian (Nina) Niu
+— graduate student, Cornell Human Ecology
+Yunting Yan
+— doctoral student in the field of computer science, Cornell Bowers
+Gilly Leshed
+— teaching professor and the director of the MPS program in the Department of Information Science, Cornell Bowers
+Guy Hoffman
+— associate professor, Sibley School of Mechanical and Aerospace Engineering, Cornell Duffield Engineering
+Keith Evan Green
+— Jean and Douglas McLean Professor of Human Centered Design, Cornell Human Ecology
+
+Who Is At Risk? Examining the Prevalence of Digital-Safety Attacks and Contextual Risk Factors in the United States
+*Sharon Heung
+— doctoral student in the field of information science, Cornell Tech and Cornell Bowers
+
+Whose Knowledge Counts? Co-Designing Community-Centered AI Auditing Tools with Educators in Hawai‘i
+Angelina Wang
+— assistant professor of information science, Cornell Tech and Cornell Bowers

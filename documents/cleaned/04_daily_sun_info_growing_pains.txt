@@ -1,0 +1,91 @@
+SOURCE: Cornell Daily Sun — INFO growing pains
+URL: https://cornellsun.com/2024/03/06/with-over-700-undergraduates-information-science-department-experiences-growing-pains-plans-to-streamline-major/
+TYPE: student_newspaper
+With Over 700 Undergraduates, Information Science Department Experiences Growing Pains, Plans to Streamline Major
+
+Reading time: about 6 minutes
+
+With over 700 undergraduates declared in the major, information science is one of the largest fields of study at Cornell, according to Claire Cardie, associate dean for education at the Bowers College of Computing and Information Science.
+
+In the last 10 years, according to data from Cornell
+Institutional Research and Planning
+, the number of students in information science has
+grown
+524 percent, as more and more students have flocked to its interdisciplinary curriculum about technology and information systems.
+
+However, amid this growth, students have felt the department’s growing pains, struggling to enroll in core courses and to access help in overflowing office hours.
+
+While the major is housed in
+Bowers
+, students’ home colleges vary from the
+College of Arts and Sciences
+to the
+College of Agriculture and Life Sciences
+to the
+College of Engineering
+.
+
+Bowers was
+created
+in 2020 and currently does not admit students directly into its college. Instead, students apply to an admitting college and enter Bowers upon declaring a major, while retaining affiliation with the admitting college.
+
+Among the six
+core courses
+that can fulfill the five distribution requirements, only three can currently be fulfilled in the spring, compared to all five in the fall semester, limiting students’ flexibility in determining their schedules. While a gap from fall to spring remains, offerings have seen a slight improvement. In the 2022-23 academic year, just two core classes could have been fulfilled in the spring, compared to all five in the fall.
+
+Information science major Reid Fleishman ’25 said that the availability of two core courses in only the fall semester has caused stress over his ability to complete his graduation requirements.
+
+“All fall semesters so far, I have not taken INFO 2040: [Networks] because there were other classes that I wanted to take more than 2040 that conflicted,” Fleishman said. “My senior fall is the only remaining time I can take it, which is risky.”
+
+There are also sometimes substantial differences in courses across different semesters. INFO 2950: Introduction to Data Science, a core class, is offered in both fall and spring semesters, but typically is taught using Python in the fall and R in the spring.
+
+On top of core requirements, information science students see
+seven concentration options
+, of which CALS and Arts and Sciences students must fulfill at least one concentration, and students in the engineering college must complete at least two concentrations.
+
+While concentration requirements can typically be completed through a variety of course options, only a few courses in each concentration are offered in a given semester, according to a Sun analysis.
+
+In addition to limited course offerings, large class sizes and overflowing office hours are some common concerns among students in the information science department. 851 students are currently enrolled in INFO 1260: Choices and Consequences in Computing, according to Cornell Student Center.
+
+Ameera Omar ’26, an information science and computer science double major, said that she has generally received adequate support during office hours in her information science classes. However, she said the office hour schedule frequently conflicts with her classes.
+
+“I think that for some classes, later office hours should be offered, rather than times when people are in class,” Omar said. “I believe most office hours should be between 4 [to] 9 p.m., and a Zoom option should be offered, so that way the teaching assistant doesn’t have to stay out late.”
+
+Omar also noted that the quality of help received during office hours can vary.
+
+“I have been to a few office hours where the TAs are more closed-off, and you have to push them to get your questions answered,” Omar said. “But usually, the TAs are very lively and walk around answering questions.”
+
+Students also described inequities in the course registration process. Beyond receiving enrollment priority, information science majors are promoted from course waitlists before non-majors, according to Cardie.
+
+But due to differences in affiliation requirements between admitting colleges, not all intended information science majors receive prioritization for information science classes during pre-enrollment. While students in CALS affiliate with the major upon matriculation, students in Arts and Sciences and the engineering college declare an affiliation sometime during their sophomore year and as such, do not receive registration prioritization until they do so.
+
+In addition to students, faculty and staff members have felt strains from department growth.
+
+“[The growth of the major] is the thing we talk about most in the planning retreats,” said Prof. David Mimno, chair of the Information Science department. “We all feel like big classes are a strain.”
+
+Mimno, who began his term as the department’s chair in January, noted that the department is hiring new faculty while prioritizing faculty retention. Additionally, Mimno explained that the department is also expanding infrastructure to support students planning to join the major and maintaining sufficient support from TAs and other course staff.
+
+There are also plans to reform some procedures surrounding the major.
+
+“One of the things that the University is rolling out is better ability to enforce prerequisites, and we're hoping that will make things a little more streamlined,” Mimno explained. “Like right now, we can say you have to take [CS] 1110: [Introduction to Computing: A Design and Development Perspective] before [INFO] 2950. But we know that people aren’t doing that, and they have a miserable experience and take up a lot of TA time.”
+
+Other planned adjustments include reducing the dependency on other departments for certain classes by adding additional classes under the information science banner and revamping the concentration system by redefining concentrations and their requirements.
+
+The department does not plan on limiting the number of students able to affiliate with the information science major.
+
+“At a lot of other institutions, you have to win a lottery to get in the major. That's never been something that we wanted to do,” Mimno said. “And I think if we can avoid that, then we definitely will.”
+
+However, a limit is not out of the question entirely.
+
+“If we determine that there is no way that we can serve students in a way that's acceptable to us, then that might be something that we would think about,” Mimno said.
+
+Chris Walkowiak is a Sun Contributor and can be reached at cw747@cornell.edu.
+
+Correction, March 8, 3:03 p.m.:
+A previous version of this article misspelled Prof. David Mimno's name in one instance. The article has been corrected, and The Sun regrets this error.
+
+Kotlikoff Addresses Campus Politics At 2026 State of the University Address
+
+Navy Pilot Rebecca Bennett ’09 Will Face Rep. Thomas Kean Jr. After Winning New Jersey Primary
+
+College of Veterinary Medicine Names Jessica McArt as New Dean

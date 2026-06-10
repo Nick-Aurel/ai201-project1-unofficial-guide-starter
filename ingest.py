@@ -38,6 +38,22 @@ BOILERPLATE_PATTERNS = [
     r"all rights reserved",
     r"skip to (main )?content",
     r"accept all cookies",
+    r"^jump to ratings$",
+    r"^load more ratings$",
+    r"^similar professors$",
+    r"^i'm professor",
+    r"^rate$",
+    r"^compare$",
+    r"^would take again$",
+    r"^level of difficulty$",
+    r"^overall quality based on$",
+    r"^all courses$",
+    r"^for credit$",
+    r"^attendance$",
+    r"^textbook$",
+    r"^grade$",
+    r"^helpful$",
+    r"^\d+$",
 ]
 
 
@@ -148,9 +164,35 @@ def extract_main_content(raw_html: str, source_type: str) -> str:
     return html_to_text(raw_html)
 
 
+def fetch_discourse_thread(url: str) -> str:
+    """Fetch all posts from a Discourse forum thread (e.g. College Confidential)."""
+    json_url = url.rstrip("/") + ".json"
+    response = requests.get(json_url, headers=HEADERS, timeout=30)
+    response.raise_for_status()
+    data = response.json()
+
+    posts = data.get("post_stream", {}).get("posts", [])
+    if not posts:
+        raise ValueError(f"No posts in Discourse thread: {url}")
+
+    title = data.get("title", "").strip()
+    parts = [f"THREAD TITLE: {title}", ""]
+    for i, post in enumerate(posts, 1):
+        cooked_html = post.get("cooked", "")
+        username = post.get("username", "unknown")
+        body = html_to_text(cooked_html)
+        if not body:
+            continue
+        parts.extend(["", "---", f"POST {i} by {username}:", body, "---"])
+    return "\n".join(parts).strip()
+
+
 def fetch_source_content(source: dict[str, Any]) -> str:
     if source.get("reddit_id"):
         return fetch_reddit_thread(source["reddit_id"])
+
+    if source["source_type"] == "admissions_forum":
+        return fetch_discourse_thread(source["source_url"])
 
     raw_html = fetch_url(source["source_url"])
     RAW_DIR.mkdir(parents=True, exist_ok=True)

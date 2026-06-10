@@ -1,0 +1,316 @@
+SOURCE: r/Cornell — class tier list
+URL: https://reddit.com/r/Cornell/comments/1kmjbs3/tier_list_of_every_class_ive_taken_at_cornell/
+TYPE: reddit
+POST TITLE: Tier List of Every Class I’ve Taken at Cornell
+SUBREDDIT: r/Cornell
+
+POST BODY:
+I remember seeing a few posts last year in which people ranked every class they had ever taken. Since my time has now come, I thought I’d do the same thing. Yes, I’m aware I had fairly easy time here compared to some of you all, so just chill. Mind you, these are all my own opinions, and my perceptions of these classes has definitely warped with the passing of time. Feel free to comment below if you want more insight into a particular class or want to ask about my time here! Good luck to everyone on their finals, and enjoy the rest of your time at Cornell!
+
+***
+
+# S Tier
+* PHIL 1111 (FWS: Debates about Free Will) with Dean Da Vee
+    * Single-handedly changed my world view. I’m not kidding when I say that I think about this class every day and have gained a clearer moral compass. I took this class freshman fall, and it has genuinely guided me through life since.
+* GOVT 2264 (Political Violence) with Sabrina Karim
+    * The one-stop shop for all conflict-related IR concepts. Truly insightful class that elucidated the micro and macro factors contributing to political violence. I appreciated the unique prelim formats as well as the simulation.
+* GOVT 2817 (America Confronts the World) with Peter Katzenstein
+    * Katzenstein is the unequivocal GOAT of the government department. Fascinating course taught by a literal sage.
+* ORIE 3120 (Practical Tools for Operations Research and Machine Learning) with Peter Frazier
+    * Frazier is an absolute joy to learn from. Gained a bunch of really useful tools for data science and operations research. They don’t call it the “intro to internships” for nothing.
+
+# A Tier
+* HD 3620 (Human Bonding) with Cindy Hazan
+    * Super cute class that helps ground romance and relationships in science. Be aware that this class is no longer an easy A in that you can’t just BS your way through the exams.
+* GOVT 2553 (Inside Europe) with Christopher Way
+    * Really insightful course on modern European politics. Way is a fantastic lecturer who even makes learning about parliamentary structures fun. Learned a lot about how and why European politics are moving in the direction they are.
+* INFO 2 950 (Introduction to Data Science) with Matthew Wilkens
+    * I love Wilkens. This class gives you a solid foundation in core data science concepts and tools. Not difficult by any means, and you get to work on a semester-long project!
+* INFO 2040 (Networks) with Jon Kleinberg and David Easley
+    * Greatly interesting introductory course on network science. Changed my perspective on how to approach systems and problems. Unlike any class I had taken up until that point.
+* GERST 3080 (Against and Beyond the Digital) with Grit Matthias Phelps
+    * Super fun course about digital German culture and politics with a lovely instructor! A lot of conversation and listening practice (with a Bielefeld University partner too). 
+* INFO 3350 (Text Mining) with Matthew Wilkens
+    * Took this class right before the ChatGPT takeover. Learned a good deal about basic text analysis/mining methods that preceded the transformer. Fascinating to work with a variety of tools and models and explore the social implications of them in discussion sections.
+* INFO 4940 (Social Dynamics and Network Analytics) with Yian Yin
+    * Basically a network/graph theory extension of 2040 but with a semester-long project. Fantastic professor who taught us a lot about how to apply network science to the real world.
+* CS 2110 (OOP) with Curran Muhlberger
+    * I have mixed feelings about this class under Muhlberger. On one hand, I genuinely solidified my understanding of standard CS concepts. On the other hand, the class was excessively laborious (tedious labs, dissertation-length assignment instructions, gotcha Canvas quiz questions). Overall, I still enjoyed the class.
+* GOVT 1817 (Making Sense of World Politics) with Sarah Kreps
+    * My introduction to international relations theory. Kreps was a fantastic lecturer who predicted the advent of drone warfare before the 2022 Russian invasion of Ukraine. This class provided me with a fantastic foundation in IR.
+* GERST 2000 (Germany: Intercultural Contexts) with Spencer Hadley
+    * This was the class wherein my German proficiency really started sky-rocketing. Everything started coming together, and all the speaking and listening practice really helped. Spencer is fantastic!
+* INFO 1260 (Choices and Consequences in Computing) with Jon Kleinberg and Karen Levy
+    * Really easy course (I think we had six problem sets and a final) that exposes you to a plethora of sociopolitical issues that computing touches. Really makes you think about the societal and ethical implications of your technical work.
+* PE 1150 (Introduction to Ballroom Dancing) with Iska Ziver
+    * Chill evening dance course in which we rotated partners. Met one of my best friends through this class. Insane gender ratio, had four girls ask for my number. 
+* HIST 2165 (Death of Democracy: Europe between the World Wars) with Cristina Florea
+    * Truly fascinating class on the rise of European fascism during the interwar period. Florea is a really engaging professor and approaches difficult topics with tact and adroitness. She is a mildly tough grader, however.
+
+# B Tier
+* GERST 3080 (East and West Berlin) with Grit Matthias Phelps
+    * Fascinating class on the division of Germany along with its sociopolitical impacts. Plenty of speaking and listening opportunities (with Bielefeld University once more).
+* SOC 3580 (Big Data on the Social World) with Cristobal Young
+    * Genuinely fascinating non-technical class on a variety of pressing social issues (wage gap, taxing the rich, unemployment, etc.). Young is a great lecturer but a harsh grader who gave us memorization-based exams.
+* GERST 1210 (Exploring German Contexts I) with Spencer Hadley and Gunhild Lischke
+    * My very first German class and exposure to the German language. Pretty solid introduction to the language, but lacked rigorous grammatical explanations.
+* INFO 4240 (Designing Tech for Social Impact) with Christopher Csikszentmihalyi
+    * Pretty interesting non-technical design class that was unlike any other class I’ve ever taken. The design assignments were annoying at the start, but they definitely grew on me over the semester. Grading is somewhat subjective and TA-dependent.
+* GERST 1220 (Exploring German Contexts II) with Spencer Hadley and Gunhild Lischke
+    * Like 1210, this class was a nice introductory class to German. Slammed into a huge learning curve at around this time and would have benefited from more grammar and vocabulary work.
+* GERST 2060 (German Business Culture) with Gunhild Lischke
+    * Frau Lischke is fantastic, and she did a great job explaining German business concepts in German to the class. I just personally am not that interested in the field of business.
+* AEM 2300 (International Trade and Finance) with Arnab Basu
+    * I thought Basu was a hilariously dry lecturer. He cancelled lecture because he “wasn’t feeling it” a couple of times and made all the exams effectively open-note. Learned a good deal about trade and finance but definitely could have learned more if Basu had taken lecturing a bit more seriously.
+* INFO 4940 (Law, Policy, and Politics of Cybersecurity) with Tracy Mitrano
+    * Really fascinating socio-political-historical approach to the evolution and implications of cybersecurity. Class was a bit disorganized, but having sat in on every single lecture, Mitrano’s take-home message made a lot of sense. Mitrano herself is funny and knowledgeable as hell and really approachable.
+
+# C Tier
+* HIST 1576 (War in US History) with Ruth Lawlor
+    * I signed up for this class because I was interested in the subject area. Indeed, the class covered interesting topics, but the course’s enormous scope made it very difficult to digest. Lawlor herself is fantastic, but she ended up having to rush through a good deal of content because of the time constraints.
+* ILRST 2100 (Introduction to Statistics & Data Science) with Sumanta Basu
+    * I thought this class was a solid introduction to statistics, but the manner in which the information was presented could have just been more clinical and straightforward. I did not like all the busywork (e.g. the quizzes and lab work). I think I learned more through self-teaching than through this class.
+* ECON 1120 (Introduction to Macroeconomics) with Terence Alexander
+    * Fairly run-of-the-mill macroeconomics class with a funny lecturer. Alexander would go off on the most random tangents (e.g. he caught someone watching porn once, the birth and circumcision of his son, etc.) Did not give too many intuitive explanations for class concepts, which made it a bit annoying.
+* GERST 3070 (The Challenge of Literary Language) with Douglas McBride
+    * I’m just not personally that interested in poetry. McBride was a very nice lecturer who would go extremely in-depth (in German mind you) about everything.
+* GOVT 1101 (FWS: Genocide) with Joseph Lasky
+    * I don’t think I actually learned that much in this class despite my interest in it. Lasky was nice enough, but did not seem to have a solid syllabus prepared with concrete learning objectives. Largely self-led research and learning.
+* BIOMI 1120 (Microbes, the Earth, and Everything) with Kathleen Hefferon
+    * I took this class for the distribution requirement. Thought it might spark a minor interest in the life sciences but alas. Hefferon was nice enough, and the class was really easy. 
+* PE 1170 (Introduction to Swing Dance) with Lesley Greene
+    * Never really learned any new fun dance routines/moves. The classroom was uncomfortably warm, and the class size was much too big. 
+* EAS 1700 (Evolution of the Earth and Life) with Robert Ross
+    * Easy enough class (for the distribution requirement), but I did not like how a good portion of our grade was dependent on us making it to the Museum of the Earth and on rock hunting around campus. Ross’s lectures were sleep-inducing. He’s a very nice guy, though.
+
+# D Tier
+* GOVT 3867 (International Security and the Causes of War) with Aaron Gold
+    * Very disorganized course with little guidance. This course may have been more interesting had I not taken 2264, as it largely covered the same topics. At least the grading was lenient.
+* GDEV 1102 (Introduction to Global Development) with Parfait Eloundou-Enyegue
+    * I genuinely did not learn a single thing in this class. Admittedly, I took it as a senior for a requirement, so underclassmen might find it more insightful. The lectures were all over the place and did not really follow a coherent structure.
+* INFO 2450 (Communication and Technology) with Chao Yu
+    * All of the concepts in this class felt nebulous and not grounded in any factual basis. Grading was enormously subjective and involved a “wow factor.” At least the course was sort of interesting if you just closed your eyes, granted all the premises, and followed along.
+* INFO 2770 (Computational Sustainability) with Carla Gomes
+    * I do not know what this class is doing cross-listed with INFO, CS and AEM. Exams were rife with gotcha questions, and Gomes herself is incomprehensible during lecture. I learned close to nothing, unfortunately.
+
+# F Tier
+* GOVT 1615 (Introduction to Political Theory) with Patchen Markell
+    * I read philosophy and political theory recreationally, but this class was genuinely the most boring class I’ve ever sat through. Markell is brilliant, but he severely overestimates the undergraduate intellect. I would not have made it through this class had I not had a fantastic TA.
+* HIST 1540 (American Capitalism) with Ed Baptist
+    * Lectures were completely unrelated to the readings. Grading varied wildly between Baptist and his TAs. Baptist made us buy his book and openly advertised his merchandise during class. Truly a capitalist moment.
+* PHIL 2830 (Introduction to Decision Theory) with Theodore Korzukhin
+    * Korzukhin mumbled facing the black board each and every lecture. The class size fell from around 50 down to 6 by the end. Problem sets required all of us collaborating for around 20 hours to complete. Horribly stress-inducing.
+
+---
+COMMENT by u/SorryYouLostTheGame:
+majored in infosci and minored in international relations and german studies
+---
+
+---
+COMMENT by u/EvenMathematician673:
+What is your major?
+---
+
+---
+COMMENT by u/petestein1:
+Thanks for tagging me. You sound as cross-majored as I was a million years ago.
+
+I started an English major. Finished that so fast I added a Government major. And after graduating they told me I also fulfilled the American Studies major.
+
+Along the way I also picked up concentrations in Law & Society as well as Religious Studies. 
+
+I had one particular class that counted towards two majors and two concentrations. Cornell, at least back then in Arts & Sciences, made it too easy to get multiple majors.
+---
+
+---
+COMMENT by u/SorryYouLostTheGame:
+I majored in Information Science (Data Science concentration) with minors in International Relations and German Studies. Interned first at a lobbying firm/trade association (data and privacy policy), then a think tank (counterterrorism and security analysis), and finally within the DOD (tech and security analysis). A couple months ago, I secured a six-figure job in the private sector working on supply chain and geopolitical risk analysis for which I'm very excited! Had neither connections, nepotism, nor anything of the like; just cold applied everywhere. Genuinely had no idea what I wanted to do going into college, but I guess I figured it out along the way.
+
+(Tagging u/petestein1 because they were following this thread too.)
+---
+
+---
+COMMENT by u/Farler:
+My PHIL 2830 experience was pretty much identical, except we started at around 15 and shrunk down to just 2 of us. Only stuck it out because it fit my schedule and requirements.
+---
+
+---
+COMMENT by u/turkeyandthings:
+I have to agree. I took the class early in my career and I found the lectures dense and unengaging.
+---
+
+---
+COMMENT by u/oreo_lester:
+Thanks! Such a comprehensive list. Really looking forward to philosophy
+---
+
+---
+COMMENT by u/luminous_moonlight:
+We generally allow faculty and high profile staff to be named here.
+---
+
+---
+COMMENT by u/petestein1:
+Following
+---
+
+---
+COMMENT by u/blackashi:
+sometimes i wish i could go back to college and take classes i actually cared about.
+---
+
+---
+COMMENT by u/Aromatic_Ad5121:
+So, what was your major, where did you intern and did you find a job you enjoy after you finished college?
+---
+
+---
+COMMENT by u/BeardoTheHero:
+EAS 1700 is way too low. I loved that class. Going to the museum was also really cool, and for 15% of your grade a scavenger hunt at the museum is a pretty sweet deal. I liked the lectures, but to each their own. 5% of the grade was literally to draw a T-Rex. I’m not exaggerating, that was 5%. We got another 1% for seeing Jurassic park in the cinemapolis. I’ll take that any day
+---
+
+---
+COMMENT by u/BeardoTheHero:
+Yeah that was my first gov class and I really hated it. People stood up and clapped for him in lectures, like what? I stopped going to lectures because they were completely irrelevant to the readings and pretty boring.
+---
+
+---
+COMMENT by u/SugarShield7:
+What did you think of the people in 2264? Lots of group work? What was the unique format for the prelim?
+---
+
+---
+COMMENT by u/OrderlyLight:
+wesoły
+---
+
+---
+COMMENT by u/OrderlyLight:
+It's not red-pilled, it's just the science. It's not like Hazan is Andrew Tate or anything, it's like asking how people get blue-pilled through American Capitalism or Political Violence. Isn't it better to know and understand?  
+Getting red-pilled is like getting skewed versions of the knowledge provided without any of the real evidence. I don't think people actually get red pilled through 3620, though some red pill talking points are taken (derived from) fact.
+---
+
+---
+COMMENT by u/drrocket8775:
+There's something beautiful about philosophy being both the best and the worst.
+---
+
+---
+COMMENT by u/SorryYouLostTheGame:
+ahaha well it's just really easy to imagine someone like andrew tate spouting claims that we learned in class like:
+- gen z is having less sex because of 
+    * poorer physical health
+    * poorer mental health
+    * increased exposure to other pleasurable activities like gaming, binge watching, porn
+* the process model of mate selection gets funneled down by:
+    * who's accessible (propinquity, similarity, etc.)
+    * then who's appealing (personality, status, looks)
+    * then who's attainable (reciprocal liking)
+    * then who's the "one"
+* the top international mate preferences for men and women are some ordering of kindness, intelligence, physical attractiveness, good housekeeper, good earning potential, good heredity, health
+* you can co-opt the pairbonding system to maximize sex during the infatuation phase before the potential onset of mutual attachment
+---
+
+---
+COMMENT by u/SorryYouLostTheGame:
+oh yeah don't get me wrong, terry himself is for sure A tier. i just didnt really resonate with the class/content itself because it turns out im not all that into econ
+---
+
+---
+COMMENT by u/SaleRude:
+How do people get red-pilled through human bonding 3620??  Just wondering
+---
+
+---
+COMMENT by u/genderbronoun:
+Terry Alexander is the GOAT Econ professor for his tangents alone
+---
+
+---
+COMMENT by u/SorryYouLostTheGame:
+bro never stopped flexing his Uber job on us
+---
+
+---
+COMMENT by u/CaveatBettor:
+Frazier is a great dude
+---
+
+---
+COMMENT by u/sammyrara679:
+Theo is god awful
+---
+
+---
+COMMENT by u/luminous_moonlight:
+Of these classes, I've only taken ECON 1120 with Terry and AEM 2300 with Basu.
+
+ECON 1120 - Please move Terry up to A Tier where he belongs. He's the kind of professor you want for that class. I took AEM 2600 with him, a class that was far more challenging for me (this is coming from someone who dropped ECON 3030 twice), and I probably would have gotten a C were it not for him.
+
+AEM 2300 - my friends and I legitimately stopped going to class 3 lectures in and never returned. I needed it for my concentration, but night classes are like a death sentence for me, and Basu's dry lecturing certainly didn't help. I think I got an A because the exams were easy, just like you said. That's the only reason I didn't regret taking it.
+---
+
+---
+COMMENT by u/NYC_Traveler_:
+If they are, they're soft and should be axed themselves. Too many power hungry mods on Reddit lately adjudicating with feelings, and not policy. Luckily our Cornell Mods have been pretty kosher.
+---
+
+---
+COMMENT by u/IthaCorn:
+![gif](giphy|N6xphQC8wZl0HWmfXt)
+---
+
+---
+COMMENT by u/HartfordResident:
+Amazing list.
+---
+
+---
+COMMENT by u/TheBlackDrago:
+other than that, I have no complaints cuz I never took any of the other classes u listed. big world it is
+---
+
+---
+COMMENT by u/SorryYouLostTheGame:
+oh shit i genuinely meant to put 1120 in the mid b tier. i do miss his tangents a good deal
+---
+
+---
+COMMENT by u/TheAlmightyZiggy:
+I never understand why people love Peter Katzenstein as much as they do. I took GOVT 1817 when he taught it and I found the lectures extremely dry and irrelevant to the larger scope of the class material a lot of the time, and because he hadn’t taught the class in like five years some of his PowerPoints just contained blatantly wrong information. His TAs were also the single strictest TAs I’ve ever encountered as a senior GOVT major
+---
+
+---
+COMMENT by u/TheBlackDrago:
+econ 1120 with alexander only being a c tier is a travesty. His random tangents in a 9 am lecture helped keep me awake and honestly his explanations were just amazing.
+---
+
+---
+COMMENT by u/CanadianCitizen1969:
+I would hope not
+---
+
+---
+COMMENT by u/SorryYouLostTheGame:
+are the mods gonna axe me 😟
+---
+
+---
+COMMENT by u/SorryYouLostTheGame:
+i must admit i do quite like thinking from time to time
+---
+
+---
+COMMENT by u/CanadianCitizen1969:
+Rare naming of names
+---
+
+---
+COMMENT by u/IthaCorn:
+Bro really is the thinker
+---
+
+---
+COMMENT by u/joeswanson34:
+This is such a great idea and hopefully helpful to other people. I'm so jealous you got to take a pretty good variety of different classes during your time here!
+---
