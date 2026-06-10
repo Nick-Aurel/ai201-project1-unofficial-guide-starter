@@ -1,6 +1,9 @@
 # API keys — never commit these
 .env
 
+# Course PDFs — keep locally, do not commit
+*.pdf
+
 # Python
 __pycache__/
 *.py[cod]
