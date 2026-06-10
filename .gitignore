@@ -1,8 +1,10 @@
 # API keys — never commit these
 .env
 
-# Course PDFs — keep locally, do not commit
+# Course materials & local docs — keep locally, do not submit
 *.pdf
+video_script.md
+reddit-research-info-science.md
 
 # Python
 __pycache__/
@@ -24,3 +26,7 @@ documents/raw/
 
 # macOS
 .DS_Store
+
+# Editor / tooling
+.cursor/
+.git-rewrite/

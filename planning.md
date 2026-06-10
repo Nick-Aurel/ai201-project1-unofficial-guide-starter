@@ -136,6 +136,8 @@ Run: `python run_m4.py` (re-embeds + tests). Single query: `python retrieve.py "
 
 **Milestone 5 generation (smoke tests):** `query.py` + `app.py` (Gradio). Model: `llama-3.3-70b-versatile` via Groq. Sources are attached programmatically from retrieval metadata (not left to the LLM). Out-of-scope test ("best dining hall") returns the refusal phrase. Results saved to `documents/generation_tests_m5.json`. Run: `python app.py` or `python run_m5.py`.
 
+**Milestone 6 evaluation:** All 5 eval questions run via `run_m6.py`; full report in `documents/evaluation_report_m6.json` and `README.md`. Primary failure: Q5 (CALS vs CAS) — retrieval ranked Bowers "Degree Differences" over College Confidential POST 2. Record demo video separately (`python app.py`).
+
 ---
 
 ## Evaluation Plan
